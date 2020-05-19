@@ -1,2 +1,1 @@
-print("Hello World!")
-print("Hello World!\b")
+print("Hello World")
